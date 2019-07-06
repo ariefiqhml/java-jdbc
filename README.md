@@ -1,3 +1,2 @@
 # java-jdbc Mysql
-Java application using mysql
-
+Java application using MYSQL
